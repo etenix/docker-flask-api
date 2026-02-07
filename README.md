@@ -61,6 +61,36 @@ This project was created to practice:
 	•	Basic cloud-ready design
 	•	Logging and configuration management
 
+---
+
+## Cloud Deployment (Practice)
+
+This project is designed for deployment on cloud platforms such as:
+
+- AWS EC2
+- AWS ECS
+- Google Cloud Run
+- Azure App Service
+
+Example deployment flow on AWS EC2:
+
+1. Launch EC2 instance (Amazon Linux)
+2. Install Docker & Docker Compose
+3. Clone this repository
+4. Configure environment variables
+5. Run with docker-compose
+
+This project was used to practice cloud-based backend deployment.
+
+---
+
+## Future Improvements
+
+- CI/CD with GitHub Actions
+- Database integration (PostgreSQL)
+- HTTPS support
+- Auto scaling
+
 ⸻
 
 Author
