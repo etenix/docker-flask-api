@@ -10,3 +10,6 @@ A simple REST API built with Flask and Docker.
 ## How to Run
 
 ### Build image
+### Run container
+### Test API
+## Example Response
